@@ -62,7 +62,7 @@ const DEFAULT_CONFIG = {
 Thank you for being my constant comfort, my funniest conversation, and the person who makes life feel extraordinary. Every moment with you is a gift I cherish deeply.
 
 I hope this year brings you as much happiness, love, and wonder as you bring to everyone around you. Keep shining as bright as you always do.`,
-    signoff: "Forever with the craziness,\nVGS ❤️"
+    signoff: "Forever with craziness,\nVGS ❤️"
   },
   coupons: [
     {
