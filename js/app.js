@@ -398,7 +398,7 @@ class BirthdayApp {
     btnSend.addEventListener("click", () => {
       const cfg = window.customizerEngine.config;
       const timeChoice = window.customizerEngine.selectedDateOption || "Tonight";
-      const msg = `Hey ${cfg.senderName}! I said YES to our birthday date (${timeChoice})! Can't wait! 🥰💖`;
+      const msg = `Hey ${cfg.senderName}! Here is your Treat (${timeChoice})!🥰💖`;
       const phone = (cfg.dateQuestion.whatsappNumber || "").replace(/[^0-9]/g, "");
 
       let waUrl = `https://wa.me/?text=${encodeURIComponent(msg)}`;
