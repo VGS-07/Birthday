@@ -91,7 +91,7 @@ I hope this year brings you as much happiness, love, and wonder as you bring to 
     btnYes: "Yes, absolutely! 🥰",
     btnNo: "No 😜",
     timeOptions: ["Tonight 🌙", "This Weekend 🥂", "You Plan It! ✨"],
-    whatsappNumber: "8668139242"
+    whatsappNumber: "8668139243"
   },
   musicUrl: "",
   passcode: "994472"
