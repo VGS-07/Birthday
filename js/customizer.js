@@ -67,8 +67,8 @@ I hope this year brings you as much happiness, love, and wonder as you bring to 
   coupons: [
     {
       icon: "☕",
-      title: "Cozy Coffee & Pastry Date",
-      desc: "Valid anytime at your favorite café. My treat with zero rush!"
+      title: "Music",
+      desc: "Spotify Available anytime you may use!"
     },
     {
       icon: "🛡️",
@@ -77,8 +77,8 @@ I hope this year brings you as much happiness, love, and wonder as you bring to 
     },
     {
       icon: "🍦",
-      title: "Midnight Ice Cream & Drive",
-      desc: "A late night drive with good music and your favorite scoop."
+      title: "Data Add-ons",
+      desc: "Data add-ons anytime."
     },
     {
       icon: "✨",
